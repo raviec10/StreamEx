@@ -1,0 +1,2 @@
+# StreamEx
+Stream API functionalities
